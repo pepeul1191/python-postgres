@@ -1,5 +1,7 @@
 # Python SQL
 
+Instalar lib
+
 En caso de usar el servicio en python:
 
     $ sudo pip install virtualenv
@@ -21,7 +23,4 @@ En Windows:
 
 Fuentes:
 
-+ https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/
-+ https://github.com/pepeul1191/python-bottle-cherry-boilerplate
-+ https://github.com/pepeul1191/python-accesos-v2
-+ https://bottlepy.org/docs/dev/stpl.html
++ https://github.com/kennethreitz/records

@@ -2,6 +2,8 @@
 
 Instalar lib
 
+    $ sudo apt-get install libpq-dev python-psycopg2
+
 En caso de usar el servicio en python:
 
     $ sudo pip install virtualenv
@@ -24,3 +26,5 @@ En Windows:
 Fuentes:
 
 + https://github.com/kennethreitz/records
++ http://initd.org/psycopg/docs/module.html
++ https://github.com/pepeul1191/python-bottle-postgres-quinua

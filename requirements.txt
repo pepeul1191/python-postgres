@@ -1,1 +1,1 @@
-records
+psycopg2-binary

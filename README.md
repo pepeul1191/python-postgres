@@ -28,3 +28,4 @@ Fuentes:
 + https://github.com/kennethreitz/records
 + http://initd.org/psycopg/docs/module.html
 + https://github.com/pepeul1191/python-bottle-postgres-quinua
++ http://zetcode.com/python/psycopg2/

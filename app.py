@@ -5,4 +5,4 @@ from dos.carrer_do import CarrerDO
 
 carrers = CarrerDO().list()
 for c in carrers:
-    print(c.name)
+    print(c.to_dict())
